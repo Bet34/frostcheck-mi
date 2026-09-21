@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bet34.github.io/frostcheck-mi/sitemap.xml
